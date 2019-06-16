@@ -1,9 +1,0 @@
-[Added Associations]
-image/png=feh.desktop;
-application/json=emacs.desktop;
-text/plain=libreoffice-writer.desktop;
-application/pdf=org.pwmt.zathura-pdf-mupdf.desktop;libreoffice-draw.desktop;
-video/mp4=mpv.desktop;
-text/css=vim.desktop;
-image/jpeg=feh.desktop;gimp.desktop;
-video/x-msvideo=mpv.desktop;

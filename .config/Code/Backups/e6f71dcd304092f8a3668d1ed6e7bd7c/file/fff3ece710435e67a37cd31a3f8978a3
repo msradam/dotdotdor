@@ -1,7 +1,0 @@
-file:///home/msradam/Projects/node-rest-shop/app.js {"mtime":1560466436080,"size":57,"etag":"33dbr5sd11q","orphaned":false}
-const express = require('express')
-const app = express();
-
-app.use( (req, res, next) => {
-    res.
-}
