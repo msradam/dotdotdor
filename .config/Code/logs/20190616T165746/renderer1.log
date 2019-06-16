@@ -1,0 +1,2 @@
+[2019-06-16 16:57:54.697] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/msradam/.config/rofi/config/.vscode'
+[2019-06-16 17:20:30.961] [renderer1] [error] Error: Error: ENOENT: no such file or directory, stat '/home/msradam/Projects/django-react/project/.vscode'

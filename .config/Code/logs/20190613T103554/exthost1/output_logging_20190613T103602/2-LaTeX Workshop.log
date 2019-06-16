@@ -1,0 +1,45 @@
+[10:36:02] Initializing LaTeX Workshop.
+[10:36:02] Creating LaTeX Workshop http and websocket server.
+[10:36:02] LaTeX Workshop initialized.
+[10:36:02] Found root file from active editor: /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:03] Root file changed from: undefined. Find all dependencies.
+[10:36:03] Instantiating a new file watcher for /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:03] Parsing /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:03] Adding /home/msradam/Projects/resume-latex/config/minimal-resume-config.tex to file watcher.
+[10:36:03] Parsing /home/msradam/Projects/resume-latex/config/minimal-resume-config.tex
+[10:36:03] Adding /home/msradam/Projects/resume-latex/config/custom-command.tex to file watcher.
+[10:36:03] Parsing /home/msradam/Projects/resume-latex/config/custom-command.tex
+[10:36:03] Parsing /home/msradam/Projects/resume-latex/minimal-resume.fls to compute dependencies
+[10:36:03] Adding /home/msradam/Projects/resume-latex/config/minimal-resume.sty to file watcher.
+[10:36:03] Parsing /home/msradam/Projects/resume-latex/config/custom-command.tex
+[10:36:03] Server created on 127.0.0.1:39531
+[10:36:03] Snippet data loaded.
+[10:36:03] LaTeX Workshop version: 7.0.2
+[10:36:04] Found root file from active editor: /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:04] Root file remains unchanged from: /home/msradam/Projects/resume-latex/minimal-resume.tex.
+[10:36:06] Parsing /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:06] Parsing /home/msradam/Projects/resume-latex/config/minimal-resume-config.tex
+[10:36:06] Parsing /home/msradam/Projects/resume-latex/config/custom-command.tex
+[10:36:06] Parsing /home/msradam/Projects/resume-latex/minimal-resume.fls to compute dependencies
+[10:36:06] Parsing /home/msradam/Projects/resume-latex/config/custom-command.tex
+[10:36:06] File watcher: responding to change in /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:06] /home/msradam/Projects/resume-latex/minimal-resume.tex changed. Auto build project.
+[10:36:06] BUILD command invoked.
+[10:36:06] Building root file: /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:06] Build root file /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:06] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/msradam/Projects/resume-latex,/home/msradam/Projects/resume-latex/minimal-resume
+[10:36:06] LaTeX build process spawned. PID: 3387.
+[10:36:07] Recipe returns with error: 12/null. PID: 3387.
+[10:36:07] Cleaning auxillary files and retrying build after toolchain error.
+[10:36:07] CLEAN command invoked.
+[10:36:07] Found root file from active editor: /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:07] Root file remains unchanged from: /home/msradam/Projects/resume-latex/minimal-resume.tex.
+[10:36:07] Found root file from active editor: /home/msradam/Projects/resume-latex/minimal-resume.tex
+[10:36:07] Root file remains unchanged from: /home/msradam/Projects/resume-latex/minimal-resume.tex.
+[10:36:07] File cleaned: /home/msradam/Projects/resume-latex/minimal-resume.fls
+[10:36:07] File cleaned: /home/msradam/Projects/resume-latex/minimal-resume.aux
+[10:36:07] File cleaned: /home/msradam/Projects/resume-latex/minimal-resume.log
+[10:36:07] File cleaned: /home/msradam/Projects/resume-latex/minimal-resume.fdb_latexmk
+[10:36:07] Recipe step 1: latexmk, -synctex=1,-interaction=nonstopmode,-file-line-error,-pdf,-outdir=/home/msradam/Projects/resume-latex,/home/msradam/Projects/resume-latex/minimal-resume
+[10:36:07] LaTeX build process spawned. PID: 3390.
+[10:36:07] Recipe returns with error: 12/null. PID: 3390.

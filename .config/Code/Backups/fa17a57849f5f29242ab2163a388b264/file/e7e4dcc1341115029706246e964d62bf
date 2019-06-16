@@ -1,0 +1,31 @@
+file:///home/msradam/Projects/healthsite_dist_risk/cm_predict/templates/cm_predict/index.html {"mtime":1559940090766,"size":0,"etag":"","orphaned":false}
+
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+
+
+<link rel="stylesheet" href="//cdn.rawgit.com/necolas/normalize.css/master/normalize.css">
+
+
+<link rel="stylesheet" href="//cdn.rawgit.com/milligram/milligram/master/dist/milligram.min.css">
+
+<style>
+
+form, h3, p{ 
+margin: 0 auto; 
+width:250px;
+}</style>
+
+<h3>Child Mortality Predictor</h3>
+{% if form %}
+<form action="{% url 'cm_predict:index' %}" method="post">
+    {% csrf_token %}
+    {{ form }}
+    <input type="submit" value="Submit">
+</form>
+{% endif %}
+
+{% if result %}
+<p>The calculated child mortality risk is: 
+<strong>{{ result }}</strong>
+</p>
+{% endif %}

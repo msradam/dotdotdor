@@ -1,0 +1,94 @@
+ReadyLatexmk: This is Latexmk, John Collins, 25 October 2018, version: 4.61.
+Rule 'pdflatex': Rules & subrules not known to be previously run:
+   pdflatex
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/msradam/Projects/resume-latex"  "/home/msradam/Projects/resume-latex/minimal-resume.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/msradam/Projects/resume-latex/minimal-resume.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/switch.def) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)))) (/home/msradam/Projects/resume-latex/config/minimal-resume-config.tex (/home/msradam/Projects/resume-latex/config/minimal-resume.sty (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty) (/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty) (/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty (/usr/share/texmf-dist/tex/latex/base/t1enc.def)) (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex) (/usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def)))
+
+/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty:45: Fatal Package fontspec Error: The fontspec package requires either XeTeX or
+(fontspec)                      LuaTeX.
+(fontspec)                      
+(fontspec)                      You must change your typesetting engine to,
+(fontspec)                      e.g., "xelatex" or "lualatex"instead of
+(fontspec)                      "latex" or "pdflatex".
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
+                                                 
+ ) ) ) )
+(see the transcript file for additional information)
+No pages of output.
+Transcript written on /home/msradam/Projects/resume-latex/minimal-resume.log.
+'minimal-resume.fls' and '/home/msradam/Projects/resume-latex/minimal-resume.fls' are identical (not copied) at /usr/bin/latexmk line 7507.
+Latexmk: Log file says no output from latex
+Latexmk: For rule 'pdflatex', no output was made
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/msradam/Projects/resume-latex/minimal-resume.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets
+Latexmk: This is Latexmk, John Collins, 25 October 2018, version: 4.61.
+Rule 'pdflatex': Rules & subrules not known to be previously run:
+   pdflatex
+Rule 'pdflatex': The following rules & subrules became out-of-date:
+      'pdflatex'
+------------
+Run number 1 of rule 'pdflatex'
+------------
+------------
+Running 'pdflatex  -synctex=1 -interaction=nonstopmode -file-line-error -recorder -output-directory="/home/msradam/Projects/resume-latex"  "/home/msradam/Projects/resume-latex/minimal-resume.tex"'
+------------
+Latexmk: applying rule 'pdflatex'...
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/Arch Linux) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(/home/msradam/Projects/resume-latex/minimal-resume.tex
+LaTeX2e <2018-12-01>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size10.clo)) (/usr/share/texmf-dist/tex/generic/babel/babel.sty (/usr/share/texmf-dist/tex/generic/babel/switch.def) (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf (/usr/share/texmf-dist/tex/generic/babel/babel.def (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)))) (/home/msradam/Projects/resume-latex/config/minimal-resume-config.tex (/home/msradam/Projects/resume-latex/config/minimal-resume.sty (/usr/share/texmf-dist/tex/latex/geometry/geometry.sty (/usr/share/texmf-dist/tex/latex/graphics/keyval.sty) (/usr/share/texmf-dist/tex/generic/oberdiek/ifpdf.sty) (/usr/share/texmf-dist/tex/generic/oberdiek/ifvtex.sty) (/usr/share/texmf-dist/tex/generic/ifxetex/ifxetex.sty)) (/usr/share/texmf-dist/tex/latex/base/fontenc.sty (/usr/share/texmf-dist/tex/latex/base/t1enc.def)) (/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty (/usr/share/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3.sty (/usr/share/texmf-dist/tex/latex/l3kernel/expl3-code.tex) (/usr/share/texmf-dist/tex/latex/l3kernel/l3pdfmode.def)))
+
+/usr/share/texmf-dist/tex/latex/fontspec/fontspec.sty:45: Fatal Package fontspec Error: The fontspec package requires either XeTeX or
+(fontspec)                      LuaTeX.
+(fontspec)                      
+(fontspec)                      You must change your typesetting engine to,
+(fontspec)                      e.g., "xelatex" or "lualatex"instead of
+(fontspec)                      "latex" or "pdflatex".
+
+For immediate help type H <return>.
+ ...                                              
+                                                  
+l.45 \msg_fatal:nn {fontspec} {cannot-use-pdftex}
+                                                 
+ ) ) ) )
+(see the transcript file for additional information)
+No pages of output.
+Transcript written on /home/msradam/Projects/resume-latex/minimal-resume.log.
+'minimal-resume.fls' and '/home/msradam/Projects/resume-latex/minimal-resume.fls' are identical (not copied) at /usr/bin/latexmk line 7507.
+Latexmk: Log file says no output from latex
+Latexmk: For rule 'pdflatex', no output was made
+Collected error summary (may duplicate other messages):
+  pdflatex: Command for 'pdflatex' gave return code 1
+      Refer to '/home/msradam/Projects/resume-latex/minimal-resume.log' for details
+Latexmk: Use the -f option to force complete processing,
+ unless error was exceeding maximum runs, or warnings treated as errors.
+=== TeX engine is 'pdfTeX'
+Latexmk: Errors, so I did not complete making targets

@@ -1,0 +1,53 @@
+[2019-06-12 22:36:18.784] [sharedprocess] [info] main {"machineId":"ad81fcc64f0fada8fcea955707f24c89e2a107e4d08d63b3c4724e50fe6eaa8c"}
+[2019-06-12 22:36:19.212] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:19.336] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:19.347] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:19.371] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:19.630] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:36:19.656] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:36:19.662] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:36:19.677] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:20.014] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:20.025] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:20.273] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:36:20.295] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:36:22.316] [sharedprocess] [info] Installing extension: jolaleye.horizon-theme-vscode
+[2019-06-12 22:36:22.335] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:22.587] [sharedprocess] [info] Downloaded extension: jolaleye.horizon-theme-vscode /tmp/3b816a5f-7b37-48c8-812b-123a33558d00
+[2019-06-12 22:36:22.713] [sharedprocess] [info] Extracted extension to /home/msradam/.vscode/extensions/.jolaleye.horizon-theme-vscode-2.0.0: jolaleye.horizon-theme-vscode
+[2019-06-12 22:36:22.713] [sharedprocess] [info] Renamed to /home/msradam/.vscode/extensions/jolaleye.horizon-theme-vscode-2.0.0
+[2019-06-12 22:36:22.714] [sharedprocess] [info] Installation completed. jolaleye.horizon-theme-vscode
+[2019-06-12 22:36:22.718] [sharedprocess] [info] Extensions installed successfully: jolaleye.horizon-theme-vscode
+[2019-06-12 22:36:28.590] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:28.602] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:28.673] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:36:28.680] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:36:28.797] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:28.849] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:36:31.015] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:36:58.733] [sharedprocess] [info] Starting to clean up unused language packs.
+[2019-06-12 22:41:31.041] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:46:31.119] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:51:31.210] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:56:31.309] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:50.522] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:50.575] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:50.684] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:50.786] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:50.843] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:57:50.863] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:57:50.881] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:57:51.015] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:51.053] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:51.075] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:57:51.088] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:51.118] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:57:51.133] [sharedprocess] [info] Scanned system extensions: 72
+[2019-06-12 22:57:53.123] [sharedprocess] [info] Installing extension: james-yu.latex-workshop
+[2019-06-12 22:57:53.145] [sharedprocess] [info] Scanned user extensions: 8
+[2019-06-12 22:57:54.223] [sharedprocess] [info] Downloaded extension: james-yu.latex-workshop /tmp/e77cadbb-d234-4a7e-b4d5-d7fcb524025d
+[2019-06-12 22:58:03.814] [sharedprocess] [info] Extracted extension to /home/msradam/.vscode/extensions/.james-yu.latex-workshop-7.0.2: james-yu.latex-workshop
+[2019-06-12 22:58:03.814] [sharedprocess] [info] Renamed to /home/msradam/.vscode/extensions/james-yu.latex-workshop-7.0.2
+[2019-06-12 22:58:03.818] [sharedprocess] [info] Installation completed. james-yu.latex-workshop
+[2019-06-12 22:58:03.831] [sharedprocess] [info] Extensions installed successfully: james-yu.latex-workshop
+[2019-06-12 23:01:31.363] [sharedprocess] [info] Scanned user extensions: 9

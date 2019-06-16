@@ -1,0 +1,13 @@
+file:///home/msradam/Projects/django-react/project/leads/views.py {"mtime":1560720654571,"size":299,"etag":"33do9idiq9k","orphaned":false}
+from django.shortcuts import render
+
+from leads.models import Lead
+from leads.serializers import LeadSerializer
+from rest_framework import generics
+
+# Create your views here.
+
+
+class LeadListCreate(generics.ListCreateAPIView):
+    queryset = Lead.objects.all()
+    serializer_class = LeadSerializer

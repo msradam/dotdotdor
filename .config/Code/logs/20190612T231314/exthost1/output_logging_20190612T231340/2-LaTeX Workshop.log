@@ -1,0 +1,12 @@
+[23:13:40] Initializing LaTeX Workshop.
+[23:13:40] Creating LaTeX Workshop http and websocket server.
+[23:13:40] LaTeX Workshop initialized.
+[23:13:42] Server created on 127.0.0.1:33381
+[23:13:42] Snippet data loaded.
+[23:13:42] LaTeX Workshop version: 7.0.2
+[23:13:42] Try root file in root directory: /home/msradam/Projects/resume-latex/minimal-resume.tex
+[23:13:42] Parsing /home/msradam/Projects/resume-latex/minimal-resume.tex
+[23:13:42] Parsing /home/msradam/Projects/resume-latex/config/minimal-resume-config.tex
+[23:13:42] Parsing /home/msradam/Projects/resume-latex/config/custom-command.tex
+[23:13:42] Parsing /home/msradam/Projects/resume-latex/minimal-resume.fls to compute dependencies
+[23:13:42] Parsing /home/msradam/Projects/resume-latex/config/custom-command.tex
