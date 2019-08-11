@@ -1,4 +1,4 @@
-# dotdotdot
+# ⚉ dotdotdot
 My Linux dotfiles, including configurations for XServer, i3, polybar, and compton. 
 
 My current setup (as of June, 2019):
